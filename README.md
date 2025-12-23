@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey, i'm gabe —— a innovator who creates and designs solutions.
 
 <!--
 **gabejeremy/gabejeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
